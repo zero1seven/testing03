@@ -1,8 +1,5 @@
-"""
-Adopted from AllenNLP:
-    https://github.com/allenai/allennlp/blob/v0.7.0/allennlp/models/archival.py
-Helper functions for archiving models and restoring archived models.
-"""
+#I"M CHANGED!!!!!!!!!
+
 
 from typing import NamedTuple, Dict, Any
 import json
